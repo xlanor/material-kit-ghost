@@ -1510,12 +1510,16 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
   text-transform: uppercase; }
 
 .post-full-meta a {
-  color: #ffffff; }
+  color: #ffffff; 
+  background-color: rgba(103, 128, 159, 0.5);
+}
 
 .post-full-title {
   margin: 0;
   color: #ffffff;
-  margin-bottom: 25px; }
+  margin-bottom: 25px; 
+  background-color: rgba(103, 128, 159, 0.5);
+}
 
 .date-divider {
   display: inline-block;
